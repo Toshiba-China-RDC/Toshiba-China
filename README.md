@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TCH-Toshiba-RDC
+- 👋 Hi, I’m @Toshiba-China-R&D
 - 👀 I’m interested in human-compiter interaction
 
 
